@@ -1,0 +1,37 @@
+header {
+	text-align: center;
+	background: url("");
+	background-size: cover;
+}
+ul {
+	padding: 10px;
+}
+li {
+	display: inline;
+	padding: 0px 10px 0px 10px;
+	font-size: 22px;
+	font-family: Georgia;
+}
+h1 {
+	font-size: 60px;
+	color: black;
+}
+body {
+	/*background: url("https://dunmoreannews.files.wordpress.com/2015/06/newspaper-background-art-c97d525e62886f4f.jpg");*/
+	background-size: cover;
+	font-family: sans-serif;
+}
+.content {
+	font-size: 22px;
+	margin-left: 10em;
+	border-spacing: 60px;
+	border: 1px solid #a7d7f9
+	background: white;
+	padding: 1em;
+
+}
+h2 {
+	color: red;
+	font-size: 12px;
+}
+
